@@ -34,7 +34,6 @@ coverage/
 !.vscode/extensions.json
 .idea/
 
-
 # Sistema operacional
 .DS_Store
 Thumbs.db
