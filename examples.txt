@@ -1,7 +1,10 @@
 import React from "react";
+import { useState } from "react";
+// import api from "./api/tmdb"; // Importando a API do TMDB
 
 function App() {
   // Requisição para a API do TMDB1
+
   const API_KEY = import.meta.env.VITE_TMDB_API_KEY;
   const BASE_URL = "https://api.themoviedb.org/3";
 
